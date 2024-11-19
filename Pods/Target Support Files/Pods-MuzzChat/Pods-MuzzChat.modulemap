@@ -1,0 +1,6 @@
+framework module Pods_MuzzChat {
+  umbrella header "Pods-MuzzChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
